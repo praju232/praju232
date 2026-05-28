@@ -5,21 +5,37 @@ Frontend Developer | Angular & React Developer
 </h3>
 
 <p align="center">
-Passionate about building scalable web applications,
-ERP systems, SCM solutions, and responsive UI experiences.
+Passionate about building scalable web applications, ERP systems,
+SCM solutions, hotel management systems, and responsive UI experiences.
 </p>
+
+---
+
+## 🚀 About Me
+
+- 💻 Frontend Developer with experience in Angular & React
+- 🌱 Currently learning advanced React patterns & performance optimization
+- 🔥 Passionate about scalable UI architecture and clean code
+- 📱 Focused on responsive and user-friendly applications
+- ⚡ Love building ERP, SCM, Pharma & Hotel Management systems
 
 ---
 
 ## 🚀 Tech Stack
 
-- Angular
-- React.js
-- TypeScript
-- JavaScript
-- HTML
-- CSS
-- SCSS
+<p align="center">
+
+<img src="https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular" />
+<img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript" />
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5" />
+<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" />
+<img src="https://img.shields.io/badge/SCSS-pink?style=for-the-badge&logo=sass" />
+<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" />
+<img src="https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase" />
+
+</p>
 
 ---
 
@@ -35,7 +51,34 @@ ERP systems, SCM solutions, and responsive UI experiences.
 
 ---
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=praju232&theme=tokyonight" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+- ERP Management System
+- Supply Chain Management System
+- Pharma Barcode & Tatmeen Integration
+- Hotel & Banquet Management System
+- Document Management System
+
+---
+
 ## 📫 Connect With Me
 
-- https://www.linkedin.com/in/prajakta-kamble-075882246/
-- prajaktakamble232@gmail.com
+<p align="center">
+<a href="https://github.com/praju232">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+</a>
+</p>
+
+---
+
+<p align="center">
+✨ "Building modern, scalable & user-friendly web applications." ✨
+</p>
