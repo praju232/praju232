@@ -37,5 +37,5 @@ ERP systems, SCM solutions, and responsive UI experiences.
 
 ## 📫 Connect With Me
 
-- LinkedIn
-- Email
+- https://www.linkedin.com/in/prajakta-kamble-075882246/
+- prajaktakamble232@gmail.com
