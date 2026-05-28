@@ -8,15 +8,34 @@ Frontend Developer | Angular & React Developer
 Passionate about building scalable web applications,
 ERP systems, SCM solutions, and responsive UI experiences.
 </p>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=praju232&show_icons=true)
-<!--
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+## 🚀 Tech Stack
+
+- Angular
+- React.js
+- TypeScript
+- JavaScript
+- HTML
+- CSS
+- SCSS
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=praju232&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praju232&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn
+- Email
