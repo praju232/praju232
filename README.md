@@ -1,10 +1,15 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Prajakta Kamble</h1>
 
+<h3 align="center">
+Frontend Developer | Angular & React Developer
+</h3>
+
+<p align="center">
+Passionate about building scalable web applications,
+ERP systems, SCM solutions, and responsive UI experiences.
+</p>
 <!--
-**praju232/praju232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
