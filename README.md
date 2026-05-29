@@ -82,11 +82,18 @@ POS, Recipe Management, Food Inventory, Room Booking, Banquet Management, Billin
 
 > "First, solve the problem. Then, write the code."
 
-## 📫 Connect With Me
+## 🤝 Let's Connect
 
+💼 Open to Frontend Development Opportunities
 
-- LinkedIn:https://www.linkedin.com/in/prajakta-kamble-075882246/
-- GitHub: https://github.com/praju232
+🔗 LinkedIn  
+[https://www.linkedin.com/in/YOUR-LINKEDIN-ID/
+](https://www.linkedin.com/in/prajakta-kamble-075882246/)
+📧 Email  
+prajaktakamble232@gmail.com
+
+🌐 GitHub  
+https://github.com/praju232
 
 <p align="center">
 ✨ "Building modern, scalable & user-friendly web applications." ✨
