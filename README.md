@@ -84,15 +84,9 @@ POS, Recipe Management, Food Inventory, Room Booking, Banquet Management, Billin
 
 ## 📫 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/prajakta-kamble-075882246/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  
-  <a href="https://github.com/praju232">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
+
+- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/
+- GitHub: https://github.com/praju232
 
 <p align="center">
 ✨ "Building modern, scalable & user-friendly web applications." ✨
