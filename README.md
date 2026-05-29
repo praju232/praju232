@@ -1,32 +1,61 @@
 <h1 align="center">Hi 👋, I'm Prajakta Kamble</h1>
 
-<p align="center">
-Frontend Developer • Angular • React • TypeScript
-</p>
+<h3 align="center">
+Frontend Developer | Angular & React Developer
+</h3>
 
 <p align="center">
-🚀 Building scalable web applications <br>
-💡 Creating responsive UI experiences <br>
-🎯 Focused on clean code & performance
+Passionate about building scalable web applications, ERP systems,
+SCM solutions, hotel management systems, and responsive UI experiences.
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 🚀 About Me
 
-```javascript
-const prajakta = {
-  role: "Frontend Developer",
-  location: "India",
-  skills: ["Angular", "React", "TypeScript", "JavaScript"],
-  interests: ["UI/UX", "Web Performance", "Enterprise Applications"],
-  currentFocus: "Building scalable frontend architectures"
-};
-```
+- 💻 Frontend Developer with experience in Angular & React
+- 🌱 Currently learning advanced React patterns & performance optimization
+- 🔥 Passionate about scalable UI architecture and clean code
+- 📱 Focused on responsive and user-friendly applications
+- ⚡ Love building ERP, SCM, Pharma & Hotel Management systems
 
-## 🛠 Tech Stack
+---
 
-Angular • React • TypeScript • JavaScript • HTML5 • CSS3 • SCSS • Git • Firebase
+## 🚀 Tech Stack
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular" />
+<img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript" />
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5" />
+<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" />
+<img src="https://img.shields.io/badge/SCSS-pink?style=for-the-badge&logo=sass" />
+<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" />
+<img src="https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase" />
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=praju232&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praju232&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=praju232&theme=tokyonight" />
+</p>
 
 ---
 
@@ -53,24 +82,16 @@ GS1 Barcode Management, Aggregation/Deaggregation, Warehouse Operations, and Tat
 ### 🏨 Hotel & Banquet Management System
 POS, Recipe Management, Food Inventory, Room Booking, Banquet Management, Billing, and Customer Operations.
 
-## 🎯 Current Goals
+## 📫 Connect With Me
 
-- Master Advanced React Patterns
-- Improve Frontend Performance Optimization
-- Build Open Source Projects
-- Contribute to Developer Communities
-
----
-
-## 📈 2026 Focus
-
-✔ Scalable Frontend Architecture  
-✔ Reusable Component Libraries  
-✔ Modern UI/UX Design  
-✔ Enterprise Application Development  
+<p align="center">
+<a href="https://github.com/praju232">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+</a>
+</p>
 
 ---
 
-### ✨ Favorite Quote
-
-> "First, solve the problem. Then, write the code."
+<p align="center">
+✨ "Building modern, scalable & user-friendly web applications." ✨
+</p>
