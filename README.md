@@ -37,27 +37,6 @@ SCM solutions, hotel management systems, and responsive UI experiences.
 
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=praju232&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praju232&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=praju232&theme=tokyonight" />
-</p>
-
----
 
 ## 🌟 Featured Projects
 
@@ -82,15 +61,38 @@ GS1 Barcode Management, Aggregation/Deaggregation, Warehouse Operations, and Tat
 ### 🏨 Hotel & Banquet Management System
 POS, Recipe Management, Food Inventory, Room Booking, Banquet Management, Billing, and Customer Operations.
 
+## 🎯 Current Goals
+
+- Master Advanced React Patterns
+- Improve Frontend Performance Optimization
+- Build Open Source Projects
+- Contribute to Developer Communities
+
+---
+## 📈 2026 Focus
+
+✔ Scalable Frontend Architecture  
+✔ Reusable Component Libraries  
+✔ Modern UI/UX Design  
+✔ Enterprise Application Development  
+
+---
+
+### ✨ Favorite Quote
+
+> "First, solve the problem. Then, write the code."
+
 ## 📫 Connect With Me
 
 <p align="center">
-<a href="https://github.com/praju232">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
-</a>
+  <a href="https://www.linkedin.com/in/prajakta-kamble-075882246/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  
+  <a href="https://github.com/praju232" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
-
----
 
 <p align="center">
 ✨ "Building modern, scalable & user-friendly web applications." ✨
